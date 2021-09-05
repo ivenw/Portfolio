@@ -5,7 +5,7 @@ After the first Moon landing in 1969, people surely must have thought that human
 
 Through our experience with computers and smartphones, it is a commonly held notion that technological progress moves at an exponential pace. But technological progress is not a guarantee.
 
-High launch costs rendered broad access to orbit and beyond an impossibilty. 
+High launch costs rendered broad access to orbit and beyond an impossibilty so far. 
 
 More and more aerospace companies are joining the revolution of reusable launch vehicles to drive costs down, broadening commercial and civilian access to space.
 
