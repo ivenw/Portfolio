@@ -5,7 +5,7 @@ The Swedish beer market is interesting. With the state monopoly on alcohol compa
 
 This analysis offers information for opportunity to target a niche in the Swedish beer market or target mainstream tastes in craft-brewing that SB is reinforcing in their selection.
 
-The link to the Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1VfQSxwPy-Oy03A-jzt-vlTkL60Hg-Gfsg8o5aimPZVk/edit?usp=sharing)
+The link to the Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1VfQSxwPy-Oy03A-jzt-vlTkL60Hg-Gfsg8o5aimPZVk/edit?usp=sharing).
 
 # Analysis
 
