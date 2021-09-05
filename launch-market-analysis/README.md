@@ -1,4 +1,4 @@
-![](./img/header.png)
+<img src="./img/header.png" width="50%"/>
 
 # Analyis of the Orital Launch Market
 
