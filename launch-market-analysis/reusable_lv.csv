@@ -1,0 +1,10 @@
+﻿Vehicle;ToLEO;ToGTO;Company;Country;Type;Status;Notes
+Falcon 9;15600;5500;SpaceX;US;Orbital;Operational;First stage and fairing reusable.
+Falcon Heavy;63800;26700;SpaceX;US;Orbital;Operational;Core, side boosters and fairing reusable.
+Starship;100000;21;SpaceX;US;Orbital;Prototype;Fully reusable.
+Electron;300;;Rocket Lab;New Zealand;Orbital;Operational;First stage recovered but not yet reused.
+Neutron;8000;;Rocket Lab;New Zealand;Orbital;Under development;First stage reusable
+New Glenn;45000;13600;Blue Origin;US;Orbital;Under development;First stage reusable
+Hyperbola-2;1900;;I-space;China;Orbital;Under development;Prototype
+Amur;10500;;Roscosmos;Russia;Orbital;Under development;Prototype
+Terran R;22000;;Relativity Space;US;Orbital;Under development;First fully reusable 3D printed rocket
