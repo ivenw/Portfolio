@@ -1,4 +1,4 @@
-<img src="./img/header.png" width="100%"/>
+<img src="./img/header.png" width="70%"/>
 
 # Analyis of the Orital Launch Market
 
