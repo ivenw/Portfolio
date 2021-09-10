@@ -3,4 +3,4 @@ Customer segmentation analysis on a [dataset](https://www.kaggle.com/arjunbhasin
 
 The project is in early experimental stage and the notebook needs clean up and the analysis re-evaluated.
 
-The presentation can be found [here](https://docs.google.com/presentation/d/1fROaDmnsrrUbS8PtByzwZklEU8f7brorkwVKRBtNTUU/edit?usp=sharing).
+The presentation of this project can be found [here](https://docs.google.com/presentation/d/1fROaDmnsrrUbS8PtByzwZklEU8f7brorkwVKRBtNTUU/edit?usp=sharing).
