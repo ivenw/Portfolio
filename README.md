@@ -1,6 +1,9 @@
 # Portfolio
 A collection of some projects I have worked on.
 
+## next-gen-check-engine
+Supervised ML classification challenge on sensor data related to the air pressure system (APS) in Scania trucks. Can we accuratly predict if a truck will an experience APS related fault?
+
 ## customer-clustering
 Customer segmentation analysis for a dataset of credit card usage utilizing k-means clustering.
 
