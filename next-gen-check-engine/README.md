@@ -7,4 +7,4 @@ In this case study I show a proof-of-concept and proof-of-value for fault detect
 
 A simple and ML pipeline of undersampling, imputation, recursive feature selection and a Random Forest classifier can already achieve a recall of 98%, leading to a cost reduction over a no-intervention approach of 94%.
 
-Link to [presentation](https://docs.google.com/presentation/d/1WHAL22N7AQp6GwdgFoYLMuvhnKIsy0DeFVBDnmfPuXY/edit?usp=sharing)
+Link to [presentation](https://docs.google.com/presentation/d/1WHAL22N7AQp6GwdgFoYLMuvhnKIsy0DeFVBDnmfPuXY/edit?usp=sharing).
