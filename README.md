@@ -7,7 +7,7 @@ Supervised ML classification challenge on sensor data related to the air pressur
 ## customer-clustering
 Customer segmentation analysis for a dataset of credit card usage utilizing k-means clustering.
 
-## hemnet
+## hemnet-forecast
 Work in progress. Scraping data from hemnet to a) analyse apartment sales characteristic for my neighborhood and b) forecast number of apartments sold per month based on ~3 years of historic data.
 
 ## launch-market-analysis
