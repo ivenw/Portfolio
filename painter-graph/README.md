@@ -6,4 +6,8 @@ For this project I scrapped the English Wikipedia for the pages of painters list
 
 For example, here we can see the network of Vincent van Goghs (red node) connections (yellow nodes) in the context of all other painters.
 
+![](vincent.png)
+
+Here is a more detailed view showing a circular graph of Vincent van Goghs (red node) network.
+
 This project is work in progress and things I want to incorporate are an interactive and searchable graph.
