@@ -7,6 +7,7 @@ authors = ["Iven Winkelmann <winkelmann.iven@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.23.2"
+arcade = "^2.6.15"
 
 [tool.poetry.dev-dependencies]
 
